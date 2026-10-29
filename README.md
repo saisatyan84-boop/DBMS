@@ -11,15 +11,13 @@ An enterprise-grade, scholastic library database management system engineered to
 
 ---
 
-## 👥 Project Team & Authors
+## 👤 Author & Developer
 
-| Name | Student ID | Role / Specialization |
-| :--- | :---: | :--- |
-| **J. SAI SATYAN** | `2520030088` | Backend Architecture, MySQL Schema, B-Tree Index Optimization & Query Engine |
-| **M. TANMAYEE** | `2520030339` | Relational Data Modeling, Foreign Key Constraints & Data Integrity |
-| **K. DEVIKA** | `2520030329` | Full-Stack Integration, Frontend UI/UX, & Interactive DBMS Inspector |
+| Name | Role / Specialization |
+| :--- | :--- |
+| **J. SAI SATYAN** | Full-Stack Database Architecture, MySQL 8.0 Schema, B-Tree Index Optimization & Query Engine |
 
-*Academic Project Submitted for Database Management Systems (DBMS) Laboratory & Coursework.*
+*Academic Project for Database Management Systems (DBMS) Laboratory & Coursework.*
 
 ---
 

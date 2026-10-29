@@ -123,7 +123,7 @@ def generate_academic_poster():
 
     p2 = htf.add_paragraph()
     p2.alignment = PP_ALIGN.CENTER
-    p2.text = "Team ID: BV-PBL-042  |  Section: S-14 (CSE)  |  Guide: Dr. K. V. Ramanathan\nMembers: J. SAI SATYAN (2520030088)  ·  M. TANMAYEE (2520030339)  ·  K. DEVIKA (2520030329)"
+    p2.text = "Team ID: BV-PBL-042  |  Section: S-14 (CSE)  |  Guide: Dr. K. V. Ramanathan\nAuthor: J. SAI SATYAN"
     p2.font.size = Pt(10.5)
     p2.font.bold = False
     p2.font.color.rgb = COLOR_OFFWHITE
@@ -351,7 +351,7 @@ def generate_presentation_deck():
 
     p = tf.add_paragraph()
     p.alignment = PP_ALIGN.CENTER
-    p.text = "TEAM MEMBERS:\n• J. SAI SATYAN  (Roll No: 2520030088)\n• M. TANMAYEE   (Roll No: 2520030339)\n• K. DEVIKA     (Roll No: 2520030329)\n\nPROJECT GUIDE: Dr. K. V. Ramanathan  |  SECTION: S-14 (CSE)"
+    p.text = "AUTHOR:\n• J. SAI SATYAN\n\nPROJECT GUIDE: Dr. K. V. Ramanathan  |  SECTION: S-14 (CSE)"
     p.font.size = Pt(13)
     p.font.color.rgb = COLOR_OFFWHITE
 
